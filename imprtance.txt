@@ -1,0 +1,4 @@
+name,email,cell,password,role,image,gender,address,dob
+
+active==return true or false
+is_lock==return true or false
