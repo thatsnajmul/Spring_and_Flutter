@@ -18,7 +18,7 @@ public class JobApplicationEntity {
     private  int id;
     private  String applicantName;
     private String image;
-    private  float expectedSalary;
+    private  double expectedSalary;
     private  String applicantEmail;
     private String applicantPhone;
     private String resumeLink;
